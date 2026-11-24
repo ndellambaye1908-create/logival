@@ -6,7 +6,7 @@ Dépôt regroupant mes livrables techniques réalisés pour le **BTS Services In
 
 | Dossier / fichier | Description |
 |---|---|
-| `livrables/Livrable_Active_Directory_ESUP.pdf` | Dossier technique Active Directory (projet ESUP, domaine `esup.local`) : architecture, installation de Windows Server 2022 et du rôle AD DS, OU, groupes, GPO, PowerShell, sécurité, cahier de recette, zone des erreurs et dépannage |
+| Livrable_Active_Directory_ESUP.pdf | Dossier technique Active Directory (projet ESUP, domaine `esup.local`) : architecture, installation de Windows Server 2022 et du rôle AD DS, OU, groupes, GPO, PowerShell, sécurité, cahier de recette, zone des erreurs et dépannage |
 
 ## Projet Active Directory — ESUP
 
