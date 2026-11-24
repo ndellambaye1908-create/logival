@@ -20,8 +20,7 @@ Dépôt regroupant mes livrables techniques réalisés pour le **BTS Services In
 ```
 .
 ├── README.md
-└── livrables/
-    └── Livrable_Active_Directory_ESUP.pdf
+└── Livrable_Active_Directory_ESUP.pdf
 ```
 
 D'autres livrables (dossier E4 LogiVal, GLPI, pfSense, scripts) pourront être ajoutés au fil de l'avancement.
